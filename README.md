@@ -50,7 +50,7 @@ _where_ `<split>` takes values: `train` _and_ `test`.
 
 ## Citation
 
-Please, cite our paper with the following bibtex if you use any of these:
+Please cite our paper with the following bibtex if you use any of these:
 
 ``` latex
 @InProceedings{jaiswal2019aird,
