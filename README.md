@@ -43,7 +43,7 @@ This would create a directory with files for the encodings, the labels, and the 
 | metadata_\<split\>.csv | Labels | CSV | [pandas](https://pandas.pydata.org/) |
 | precomputed_retrievals_\<split\>.npy | Retrieval Indices | NumPy Binary | [NumPy](http://www.numpy.org/) |
 
-_where_ `<split>` takes values: `train` _and_ `test`.
+_where_ `<split>` _takes values_: `train` _and_ `test`.
 
 **Precomputed Retrievals**: In our experiments, we treated the training data as the reference world dataset as well. Hence, all retrieval entries are indices into the training encoding and metadata files.
 
