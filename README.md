@@ -8,7 +8,7 @@ This repository provides access to preprocessed datasets used in the paper _A. J
 ![](https://i.imgur.com/iQZgdVD.jpg)
 <sub> **Examples of evidences in the AIRD-Datasets.** Samples above show supporting evidences under three different domains: (a) Places (Google Landmarks), (b) Faces (IJBC-IRD), and \(c\) Paintings (Painter by Numbers).</sub>
 
-![AIRD-Datasets](https://i.imgur.com/GPtFm9D.jpg)
+![](https://i.imgur.com/06NBlvy.jpg)
 <sub> **Examples of fake candidates in the AIRD-Datasets.** Samples above show confusing fake-candidates useful in training and assessing image repurposing detection models under three different domains: (a) Places (Google Landmarks), (b) Faces (IJBC-IRD), and \(c\) Paintings (Painter by Numbers).</sub>
 
 
